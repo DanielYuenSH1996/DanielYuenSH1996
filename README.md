@@ -27,7 +27,14 @@ My name is Daniel Yuen, and I live in London. I earned a Master's Degree in Busi
 
 
 
-Corporate Performance Dashboard - Home Page
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span style="font-size: 16px; color: white;">Corporate Performance Dashboard Home Page</span>
+  <a href="https://www.github.com/DanielYuenSH1996" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/DanielYuenSH1996/DanielYuenSH1996/blob/main/power-bi-microsoft-logo-png_seeklogo-400711.png?raw=true" 
+         width="64" height="64" alt="Power BI logo" />
+  </a>
+</div>
+
 ![image alt](https://github.com/DanielYuenSH1996/DanielYuenSH1996/blob/main/Dashboard%20Home%20Page.PNG?raw=true)
 
 Customers Performance
