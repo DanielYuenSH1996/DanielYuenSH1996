@@ -4,12 +4,12 @@ Hi 👋 My name is Daniel Yuen
 Data Professional with Over 15 Years of Data Project Experience
 ---------------------------------------------------------------
 
-My name is Daniel Yuen, and I live in London. I earned a Master's Degree in Business Administration and a Bachelor's Degree in Computer Science. I'm a Data Professional currently exploring new opportunities where I can contribute my experiences and know-how to deliver impactful data solutions. I engaged in the 12-week intensive Justit Data Bootcamp to boost my technical skills - Advanced Excel, SQL, Powerbi, Tableau, Python, and Azure included. I have an impeccable 15 years+ background in managing end-to-end data projects, from strategy, stakeholder alignment and user requirements gathering to execution and delivery. I'm especially passionate about turning data into visualisation to support informed decision-making. In my spare time, I play badminton, watch movies and practice classical guitar to keep myself physically and mentally healthy. I am looking for a role in the data field - data analyst, data steward, project manager, where I can drive both technical progress and business value.
+My name is Daniel Yuen, and I live in London. I earned a Master's Degree in Business Administration and a Bachelor's Degree in Computer Science. I'm a Data Professional currently exploring new opportunities where I can contribute my experiences and know-how to deliver impactful data solutions. I engaged in the 8-week intensive Justit Data Bootcamp to boost my technical skills - Advanced Excel, SQL, Powerbi, Tableau, Python, and Azure included. I have an impeccable 15 years+ background in managing end-to-end data projects, from strategy, stakeholder alignment and user requirements gathering to execution and delivery. I'm especially passionate about turning data into visualisation to support informed decision-making. In my spare time, I play badminton, watch movies and practice classical guitar to keep myself physically and mentally healthy. I am looking for a role in the data field - data analyst, data steward, project manager, where I can drive both technical progress and business value.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [daniel.yuen.sh+github@gmail.com](mailto:daniel.yuen.sh+github@gmail.com)
-* 🧠  I'm learning Tools enable Data Technician / Data Analyst Role: Excel, SQL, PowerBi, Tableau, Azure, Python
-* 🤝  I'm open to collaborating on Data Analytic project assuming the role of Data Technician, Data Steward, Data Engineer, Data Analyst, Project Manager
+* 🧠  I'm refreshing and strengthening my data skills to prepare for a Data Technician or Data Analyst role. Focus areas include Excel, SQL, Power BI, Tableau, Azure, and Python.
+* 🤝  I'm open to collaborating on Data Analytics projects assuming the role of Data Technician, Data Steward, Data Engineer, Data Analyst, Project Manager
 * ⚡  My Hobby: Badminton, Movies, Cooking
 
 ### Skills
